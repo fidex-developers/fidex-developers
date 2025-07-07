@@ -6,7 +6,7 @@
 
 <!-- Animated Showcase (GIF) -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/1234567/170123456-abc12345-df10-4cde-b123.gif" alt="Fidex Developers Show GIF" width="600"/>
+  <img src="https://github.com/user-attachments/assets/6ec7aa04-4904-43be-93ec-34225700d6bf" alt="Fidex Developers Show GIF" width="600"/>
 </p>
 
 <h1 align="center">Welcome to Fidex Developers (Pvt) Ltd</h1>
